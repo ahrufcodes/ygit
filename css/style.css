@@ -28,5 +28,15 @@ h1 {
   font-family: 'Clash Display', sans-serif;
 }
 
-/* Buttons */
-/*# sourceMappingURL=style.css.map */
+.container-fluid{
+  margin-top: 5px;
+  padding-bottom: 5px;
+}
+
+.navbar-collapse{
+  margin-right: 50px;
+}
+
+.navbar-brand{
+  margin-left: 50px;
+}
